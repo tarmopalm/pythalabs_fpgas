@@ -1,0 +1,41 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Thu Sep 11 08:03:35 2025
+[*]
+[dumpfile] "/home/pythagoras/work/projects_tarmo/spi_lite_tpp/tb.vcd"
+[dumpfile_mtime] "Thu Sep 11 08:00:58 2025"
+[dumpfile_size] 297728
+[savefile] "/home/pythagoras/work/projects_tarmo/spi_lite_tpp/GTKWaveSignals.sav"
+[timestart] 0
+[size] 1000 600
+[pos] 75 341
+*-32.068256 105000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[treeopen] tb.bl_dut.
+[sst_width] 228
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 141
+@28
+tb.bl_dut.inst_spi_top.inst_spi_kernel.i_cpha
+tb.bl_dut.inst_spi_top.inst_spi_kernel.i_cpol
+@22
+tb.bl_dut.inst_spi_top.inst_spi_kernel.i_data[31:0]
+tb.bl_dut.inst_spi_top.inst_spi_kernel.i_data_len[5:0]
+@28
+tb.bl_dut.inst_spi_top.inst_spi_kernel.i_en_data_in
+tb.bl_dut.inst_spi_top.inst_spi_kernel.i_en_data_out
+tb.bl_dut.inst_spi_top.inst_spi_kernel.i_miso
+tb.bl_dut.inst_spi_top.inst_spi_kernel.i_msb_first
+tb.bl_dut.inst_spi_top.inst_spi_kernel.i_rst
+tb.bl_dut.inst_spi_top.inst_spi_kernel.i_start
+tb.bl_dut.inst_spi_top.inst_spi_kernel.o_busy
+tb.bl_dut.inst_spi_top.inst_spi_kernel.o_cs
+@22
+tb.bl_dut.inst_spi_top.inst_spi_kernel.o_data[31:0]
+@28
+tb.bl_dut.inst_spi_top.inst_spi_kernel.o_data_valid
+tb.bl_dut.inst_spi_top.inst_spi_kernel.o_mosi
+tb.bl_dut.inst_spi_top.inst_spi_kernel.o_sck
+[pattern_trace] 1
+[pattern_trace] 0
