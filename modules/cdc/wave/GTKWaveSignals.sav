@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Sun Sep 14 17:50:22 2025
+[*]
+[dumpfile] "/home/pythagoras/work/projects_tarmo/pythalabs_fpgas/modules/cdc/tmp_work/tb.vcd"
+[dumpfile_mtime] "Sun Sep 14 17:32:45 2025"
+[dumpfile_size] 166977536
+[savefile] "/home/pythagoras/work/projects_tarmo/pythalabs_fpgas/modules/cdc/wave/GTKWaveSignals.sav"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*0.000000 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[treeopen] tb.bl_dut.
+[sst_width] 228
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 141
+@29
+tb.bl_dut.inst_dut.clk_cd1_i
+@28
+tb.bl_dut.inst_dut.clk_cd2_i
+tb.bl_dut.inst_dut.dat_cd1_i
+tb.bl_dut.inst_dut.dat_cd2_o
+[pattern_trace] 1
+[pattern_trace] 0
