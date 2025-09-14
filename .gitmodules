@@ -1,0 +1,3 @@
+[submodule "pythalabs_precompiled_libs"]
+	path = pythalabs_precompiled_libs
+	url = git@github.com:tarmopalm/pythalabs_precompiled_libs.git
