@@ -3,6 +3,7 @@ export OSVVM_VER="2020.05"
 export VIVADO_VER="2021.2"
 
 export GHDL_LIBLIST="unisim spi_top_lib"
+ghdl -i --std=08 --work=eth2axis_lib ../src/packetram.vhd
 ghdl -i --std=08 --work=eth2axis_lib ../src/eth2axis.vhd
 
 ln -s ../../../pythalabs_precompiled_libs/ghdl/xilinx/$VIVADO_VER/secureip/v08/secureip-obj08.cf secureip-obj08.cf
